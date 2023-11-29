@@ -1,4 +1,4 @@
-# Proyecto - "Recomendación Config. F1"
+# Programa - "Recomendación Config. F1"
 
 Este proyecto se origina de la necesidad crítica de hacer recomendaciones en tiempo real en las carreraras fórmula basandonos en distintos tipos de situaciones y eventos que pueden darse estando en la pista, estas recomendaciones tienen que ver con ajustes en el vehículo de F1 en particular, tomando en cuenta neumaticios, cantidad de combustible y el suelo del vehículo, lo que genera mayor o menor "downforce" y mayor o menor "velocidad máxima". Estos elementos se deberan recomendar basados en las condiciones que esten presentes en la pista a un nivel muy básico, como "Condiciones Climaticas". El programa le preguntara al usuario, por medio de un menu las condiciones existentes en la pista y en base a estas, arrojara una recomendación para la configuración del vehículo al usuario.
 Además el usuario podrá configurar durante su interacción un vehículo que será nombrado por el y que acoplara los objetos que este crea pertinentes para sus necesidades. Siempre habrá un apartado para consultar la información general de los objetos.
